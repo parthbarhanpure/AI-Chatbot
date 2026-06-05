@@ -19,3 +19,8 @@ This project is a simple AI chatbot built using Python and Scikit-Learn.
   
   
   ## Run pip install -r requirements.txt python chatbot.py
+
+  ## Sample Output
+
+![Chatbot Output]<img width="1619" height="413" alt="screenshot png" src="https://github.com/user-attachments/assets/8b88644f-f3be-4b1c-a2bf-328f08a34375" />
+
