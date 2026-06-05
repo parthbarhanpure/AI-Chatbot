@@ -1,0 +1,212 @@
+{
+"intents": [
+{
+"tag": "greeting",
+"patterns": ["Hi", "Hello", "Hey", "Good Morning", "Good Evening"],
+"responses": ["Hello! How can I help you?", "Hi there!", "Greetings!"]
+},
+{
+"tag": "goodbye",
+"patterns": ["Bye", "Goodbye", "See you later", "Exit"],
+"responses": ["Goodbye!", "Have a nice day!", "See you again!"]
+},
+{
+"tag": "thanks",
+"patterns": ["Thank you", "Thanks", "Thanks a lot"],
+"responses": ["You're welcome!", "Happy to help!", "Anytime!"]
+},
+{
+"tag": "generative_ai",
+"patterns": [
+"What is Generative AI?",
+"Explain Generative AI",
+"Tell me about Generative AI",
+"What does Generative AI do?"
+],
+"responses": [
+"Generative AI is a type of artificial intelligence that creates new content such as text, images, audio, video, and code based on patterns learned from training data."
+]
+},
+{
+"tag": "machine_learning",
+"patterns": [
+"What is Machine Learning?",
+"Explain Machine Learning",
+"Tell me about ML"
+],
+"responses": [
+"Machine Learning is a branch of AI that enables computers to learn from data and make predictions without being explicitly programmed."
+]
+},
+{
+"tag": "deep_learning",
+"patterns": [
+"What is Deep Learning?",
+"Explain Deep Learning"
+],
+"responses": [
+"Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from data."
+]
+},
+{
+"tag": "data_collection",
+"patterns": [
+"What is Data Collection?",
+"Explain Data Collection",
+"Why is Data Collection important?"
+],
+"responses": [
+"Data Collection is the process of gathering information from various sources for analysis and decision-making."
+]
+},
+{
+"tag": "data_analysis",
+"patterns": [
+"What is Data Analysis?",
+"Explain Data Analysis"
+],
+"responses": [
+"Data Analysis is the process of examining and interpreting data to discover useful insights."
+]
+},
+{
+"tag": "data_science",
+"patterns": [
+"What is Data Science?",
+"Explain Data Science"
+],
+"responses": [
+"Data Science combines statistics, programming, and domain knowledge to extract insights from data."
+]
+},
+{
+"tag": "nlp",
+"patterns": [
+"What is NLP?",
+"Explain Natural Language Processing"
+],
+"responses": [
+"Natural Language Processing enables computers to understand and generate human language."
+]
+},
+{
+"tag": "computer_vision",
+"patterns": [
+"What is Computer Vision?",
+"Explain Computer Vision"
+],
+"responses": [
+"Computer Vision enables computers to understand and analyze images and videos."
+]
+},
+{
+"tag": "neural_network",
+"patterns": [
+"What is Neural Network?",
+"Explain Neural Network"
+],
+"responses": [
+"A Neural Network is a computational model inspired by the human brain that learns patterns from data."
+]
+},
+{
+"tag": "supervised_learning",
+"patterns": [
+"What is Supervised Learning?"
+],
+"responses": [
+"Supervised Learning is a machine learning technique that uses labeled data to train models."
+]
+},
+{
+"tag": "unsupervised_learning",
+"patterns": [
+"What is Unsupervised Learning?"
+],
+"responses": [
+"Unsupervised Learning discovers hidden patterns in unlabeled data."
+]
+},
+{
+"tag": "overfitting",
+"patterns": [
+"What is Overfitting?"
+],
+"responses": [
+"Overfitting occurs when a model performs well on training data but poorly on new unseen data."
+]
+},
+{
+"tag": "big_data",
+"patterns": [
+"What is Big Data?"
+],
+"responses": [
+"Big Data refers to large and complex datasets that require advanced tools for processing and analysis."
+]
+},
+{
+"tag": "cloud_computing",
+"patterns": [
+"What is Cloud Computing?"
+],
+"responses": [
+"Cloud Computing provides computing resources such as servers and storage over the internet."
+]
+},
+{
+"tag": "cybersecurity",
+"patterns": [
+"What is Cybersecurity?"
+],
+"responses": [
+"Cybersecurity is the practice of protecting systems, networks, and data from cyber threats."
+]
+},
+{
+"tag": "database",
+"patterns": [
+"What is a Database?"
+],
+"responses": [
+"A Database is an organized collection of data that can be stored and accessed efficiently."
+]
+},
+{
+"tag": "sql",
+"patterns": [
+"What is SQL?"
+],
+"responses": [
+"SQL is a language used to manage and query relational databases."
+]
+},
+{
+"tag": "api",
+"patterns": [
+"What is API?"
+],
+"responses": [
+"An API allows different software applications to communicate with each other."
+]
+},
+{
+"tag": "chatbot",
+"patterns": [
+"What is a Chatbot?"
+],
+"responses": [
+"A chatbot is a software application that interacts with users through text or voice conversations."
+]
+},
+{
+"tag": "openai",
+"patterns": [
+"What is OpenAI?"
+],
+"responses": [
+"OpenAI develops advanced artificial intelligence models for language, reasoning, coding, and other applications."
+]
+}
+]
+}
